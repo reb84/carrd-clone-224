@@ -1,0 +1,144 @@
+:root {
+    --black: #000;
+    --bg: #f6fcf4;
+    --pink: #fc92e9;
+    --yellow: #fdd304;
+    --purple: #c7c1f8;
+    --teal: #68d1c4;
+    --blue: #91d1ff;
+}
+
+/* GitHub link */
+.github-button {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    width: 24px;
+    height: 24px;
+    color: var(--black);
+}
+
+.github-button svg {
+    fill: currentColor;
+    width: 100%;
+    height: 100%;
+    transition: color 0.3s ease;
+}
+
+.github-button:hover {
+    color: var(--purple);
+}
+
+html {
+    font-family: "Alexandria", sans-serif;
+}
+
+body {
+    background-color: var(--bg);
+    line-height: 1.875;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    max-width: 450px;
+    margin: 50px auto;
+    padding: 0 1rem;
+}
+
+/* Intro section */
+.social-img {
+    width: 132px;
+    border-radius: 50%;
+    margin: auto;
+    border: 4px solid var(--black);
+    padding: 2px;
+}
+
+h1 {
+    font-size: 44px;
+    font-weight: 600;
+}
+
+.intro-el {
+    text-align: center;
+    margin: 1rem auto;
+}
+
+.intro-el p {
+    font-weight: 300;
+    font-size: 15px;
+}
+
+/* Social icons */
+.social-el {
+    text-align: center;
+    margin: 1rem auto;
+}
+
+.social-link {
+    font-size: 30px;
+    width: 65px;
+    height: 65px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid var(--black);
+    border-radius: 50%;
+    text-decoration: none;
+    color: var(--black);
+    margin: 5px;
+    transition: transform 0.2s ease;
+}
+
+.social-link:hover {
+    transform: scale(1.05);
+}
+
+/* Background colors via variables */
+.slink-one {
+    background-color: var(--pink);
+}
+
+.slink-two {
+    background-color: var(--yellow);
+}
+
+.slink-three {
+    background-color: var(--purple);
+}
+
+.slink-four {
+    background-color: var(--teal);
+}
+
+.slink-five {
+    background-color: var(--blue);
+}
+
+/* Links section */
+.links-el {
+    margin-top: 1rem;
+}
+
+.link-btn {
+    display: block;
+    background-color: #fff;
+    border: 2px solid var(--black);
+    border-radius: 50px;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 16px 30px;
+    margin-top: 1.5rem;
+    transition: transform 0.2s ease;
+    color: var(--black);
+}
+
+.link-btn:hover {
+    transform: scale(1.05);
+}
+
+.link-first {
+    background-color: var(--yellow);
+}
