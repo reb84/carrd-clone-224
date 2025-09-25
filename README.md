@@ -5,7 +5,7 @@
 
 ![Screenshot](assets/screenshot.png)
 
-A recreation of a Carrd template built from scratch using HTML, CSS, and JavaScript to practice front-end development skills.
+A recreation of a Carrd template built from scratch using HTML and CSS to practice front-end development skills.
 
 ✨ [Live Demo](https://carrd-clone-224.netlify.app/)
 
