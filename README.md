@@ -7,7 +7,7 @@
 
 A recreation of a Carrd template built from scratch using HTML, CSS, and JavaScript to practice front-end development skills.
 
-<!-- ✨ [Live Demo](YOUR_GITHUB_PAGES_URL_HERE) -->
+✨ [Live Demo](https://carrd-clone-224.netlify.app/)
 
 [  **Original Template:** [224](https://196eee93a9b8aedc.demo.carrd.co/) ]
 
