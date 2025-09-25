@@ -1,6 +1,9 @@
 # Template 224 - Carrd Clone
 
-<!-- ![Screenshot](assets/screenshot.png) -->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Screenshot](assets/screenshot.png)
 
 A recreation of a Carrd template built from scratch using HTML, CSS, and JavaScript to practice front-end development skills.
 
@@ -9,35 +12,6 @@ A recreation of a Carrd template built from scratch using HTML, CSS, and JavaScr
 [  **Original Template:** [224](https://196eee93a9b8aedc.demo.carrd.co/) ]
 
 ---
-
-<!-- ## 📋 What I Built
-- [x] Responsive layout matching the original design
-- [x] Interactive elements and animations
-- [x] Cross-browser compatibility
-- [x] Mobile-first approach
-- [ ] *Add any additional features you implemented*
-
-## 🛠️ Technologies Used
-- HTML5
-- CSS3 (Flexbox/Grid)
-- Vanilla JavaScript
-- *Add any additional tools/libraries you used*
-
-## 💡 What I Learned
-- *Specific techniques you picked up (e.g., "CSS Grid for complex layouts")*
-- *Challenges you overcame (e.g., "Creating smooth scroll animations")*
-- *New concepts you discovered (e.g., "Advanced CSS selectors")*
-
-## 🎨 Key Features Recreated
-- *List the main visual/interactive elements you replicated*
-- *Any tricky bits you're particularly proud of*
-
-## 📱 Responsive Design
-Fully responsive across:
-- Desktop (1200px+)
-- Tablet (768px - 1199px)  
-- Mobile (320px - 767px) -->
-
 
 ### Setup & Installation
 1. Clone this repository
